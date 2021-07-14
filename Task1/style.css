@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+body{
+    box-sizing: border-box;
+    
+}
 .navbar{
     background-color: #3a288d;
     width: 100%;
